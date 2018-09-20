@@ -1,8 +1,10 @@
-收集了一些以前的GFWList，添加了一些后来遇到的网址
+收集了以前的GFWList，添加了一些后来遇到的网址
 
 自用以及给我的小伙伴用
 
- GFWList 是一个开源的黑名单项目，它由成千上万的网友贡献整理而成，从而实现被 GFWed 的域名自动走代理；而 Flora 则从 IP 上去获取中国的 IP 地址段，从而生成智能 PAC ，对国外的 IP 使用代理 使用方法如下
+GFWList地址 https://raw.githubusercontent.com/pengxuan1995/GFWList/master/pac.txt
+
+GFWList 是一个开源的黑名单项目，它由成千上万的网友贡献整理而成，从而实现被 GFWed 的域名自动走代理；而 Flora 则从 IP 上去获取中国的 IP 地址段，从而生成智能 PAC ，对国外的 IP 使用代理 使用方法如下
 
 - android 进入节点配置界面 选择路由-自定义ACL文件-输入URL 输入文中链接即可
 - iOS Shadowrocket 添加配置文件 写入上面的链接
