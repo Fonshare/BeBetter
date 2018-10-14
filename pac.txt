@@ -14,6 +14,10 @@ var ipv6_proxy = function(){ return nowall_proxy(); };
  */
 
 var rules = [
+	"||typora.io",
+	"||atom.io",
+	"||band.us",
+	"||膜.org",
 	"|http://85.17.73.31/",
 	"||agnesb.fr",
 	"||akiba-web.com",
