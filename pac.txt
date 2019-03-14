@@ -14,12 +14,23 @@ var ipv6_proxy = function(){ return nowall_proxy(); };
  */
 
 var rules = [
+  "||telegra.ph",
+	"||jci.org",
+	"||qiqipip.ml",
+  "||4hu.cc",
+  "||4hu.tv",
+  "||greasyfork.org",
+	"||mocloudnewbie.us",
+	"||tampermonkey.net",
+	"||journals.elsevier.com",
+	"||github.com",
 	"||bd-film.co",
 	"||cnbeta.com",
 	"||typora.io",
 	"||atom.io",
 	"||band.us",
 	"||膜.org",
+	"||膜.club",
 	"|http://85.17.73.31/",
 	"||agnesb.fr",
 	"||akiba-web.com",
