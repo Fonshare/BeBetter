@@ -22,26 +22,26 @@ GFWList 是一个开源的黑名单项目，它由成千上万的网友贡献整
 
 持续更新中
 
-# FangYuan
+# 影视FangYuan
 
 新方圆浏览器app的视频源不定期更新
 
-使用方法，复制https://github.com/Fonshare/BeBetter/blob/master/FangYuan.json，从网络导入即可
+使用方法，复制 https://github.com/Fonshare/BeBetter/blob/master/FangYuan.json 从网络导入即可
 
 新方圆浏览器最新版下载地址：https://www.lanzous.com/b688922
 
-# YiCiYuan
+# 漫画YiCiYuan
 
 异次元app的图源不定期更新
 
-使用方法，复制https://github.com/Fonshare/BeBetter/blob/master/YiCiYuan.txt，从网络导入即可
+使用方法，复制 https://github.com/Fonshare/BeBetter/blob/master/YiCiYuan.txt 从网络导入即可
 
 异次元app可以在手机乐园上下载使用
 
-# YueDu
+# 小说YueDu
 
 阅读app的书源不定期更新
 
-使用方法，复制https://github.com/Fonshare/BeBetter/blob/master/YueDu.json，从网络导入即可
+使用方法，复制 https://github.com/Fonshare/BeBetter/blob/master/YueDu.json 从网络导入即可
 
 阅读app可以在酷安下载使用
