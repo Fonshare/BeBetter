@@ -26,7 +26,7 @@ GFWList 是一个开源的黑名单项目，它由成千上万的网友贡献整
 
 新方圆浏览器app的视频源不定期更新
 
-使用方法，复制 https://github.com/Fonshare/BeBetter/blob/master/FangYuan.json 从网络导入即可
+使用方法，复制 https://raw.githubusercontent.com/Fonshare/BeBetter/master/FangYuan.json 从网络导入即可
 
 新方圆浏览器最新版下载地址：https://www.lanzous.com/b688922
 
@@ -34,7 +34,7 @@ GFWList 是一个开源的黑名单项目，它由成千上万的网友贡献整
 
 异次元app的图源不定期更新
 
-使用方法，复制 https://github.com/Fonshare/BeBetter/blob/master/YiCiYuan.txt 从网络导入即可
+使用方法，复制 https://raw.githubusercontent.com/Fonshare/BeBetter/master/YiCiYuan.txt 从网络导入即可
 
 异次元app可以在手机乐园上下载使用
 
@@ -42,6 +42,6 @@ GFWList 是一个开源的黑名单项目，它由成千上万的网友贡献整
 
 阅读app的书源不定期更新
 
-使用方法，复制 https://github.com/Fonshare/BeBetter/blob/master/YueDu.json 从网络导入即可
+使用方法，复制 https://raw.githubusercontent.com/Fonshare/BeBetter/master/YueDu.json 从网络导入即可
 
 阅读app可以在酷安下载使用
