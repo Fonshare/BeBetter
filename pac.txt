@@ -14,6 +14,13 @@ var ipv6_proxy = function(){ return nowall_proxy(); };
  */
 
 var rules = [
+  "||tumbex.com",
+  "||mocloud.us",
+  "||cbs.com",
+  "||duyaoss.com",
+  "||laomoit.com",
+  "||share.dmhy.org",
+  "||miku.tools",
   "||telegra.ph",
 	"||jci.org",
 	"||qiqipip.ml",
@@ -6608,7 +6615,7 @@ var rules = [
 	"||wikimapia.org",
 	"|http://zh.wikisource.org",
 	"||zh.wikinews.org",
-	"||ja.wikipedia.org",
+	"||wikipedia.org",
 	"zh.wikipedia.org",
 	"zh.m.wikipedia.org",
 	"|https://zh.m.wikipedia.org",
