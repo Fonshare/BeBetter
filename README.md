@@ -24,11 +24,11 @@ GFWList 是一个开源的黑名单项目，它由成千上万的网友贡献整
 
 # 影视FangYuan
 
-新方圆浏览器app的视频源不定期更新
+新方圆浏览器已经更名海阔啦，视频源不定期更新
 
 使用方法，复制 https://raw.githubusercontent.com/Fonshare/BeBetter/master/FangYuan.json 从网络导入即可
 
-新方圆浏览器最新版下载地址：https://www.lanzous.com/b688922
+海阔最新版下载地址：https://www.lanzous.com/b201988
 
 # 漫画YiCiYuan
 
